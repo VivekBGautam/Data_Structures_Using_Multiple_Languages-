@@ -11,13 +11,14 @@ Each node contains a pointer to the next node
 The last node points to NULL
 
 ## Data Structure Used
+```
 struct node
 {
     int data;
     node *next;
 };
-
-Operations Implemented
+```
+## Operations Implemented
 
 Insert node at first position
 
@@ -37,6 +38,7 @@ Count number of nodes
 
 ## How to Compile and Run
 g++ Filename.cpp -o Myexe
+
 ./Myexe
 
 ## Concepts Covered
