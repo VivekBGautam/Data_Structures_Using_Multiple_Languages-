@@ -44,6 +44,12 @@ Function Prototype: void Display(PNODE Head, int pos);
 
 Description: Counts and displays the number of nodes present at a given Nth position in the linked list.
 
+## How to Run And Compail
+
+gcc filename.c -o Myexe
+
+Myexe.exe     (exe is name of our exe file)
+
 ## Author
 
 ### Name: Vivek Gautam
@@ -52,3 +58,4 @@ Description: Counts and displays the number of nodes present at a given Nth posi
 
 
 ### GitHub: https://github.com/vivekgautam
+
