@@ -1,4 +1,4 @@
-# Generic Queue Implementation in C++
+# Queue Implementation in C++
 
 ## Overview
 
